@@ -1,1 +1,9 @@
-Console.WriteLine("Hello World!");
+using System;
+
+namespace Test
+{
+  public class MyTest
+  {
+    Console.WriteLine("Hello World!");
+  }
+}
